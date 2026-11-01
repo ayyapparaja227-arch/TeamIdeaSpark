@@ -1,0 +1,88 @@
+/* ═══════════════════════════════════════════════════════════════════════
+   SANRAKSHAK — Global Design System
+   Mirroring sih67team-website.vercel.app  (light Apple/Notion aesthetic)
+   ═══════════════════════════════════════════════════════════════════════ */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600;700&display=swap');
+
+/* ── Reset ─────────────────────────────────────────────────────────── */
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  background: #f0f2f5;
+  color: #0f172a;
+  overflow-x: hidden;
+  line-height: 1.6;
+}
+
+::selection {
+  background: #dbeafe;
+  color: #1e3a8a;
+}
+
+/* ── Scrollbar ─────────────────────────────────────────────────────── */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #f0f2f5;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 99px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* ── Smooth hover transitions on all interactive elements ──────── */
+button, a {
+  transition: all 0.2s ease;
+}
+
+button:hover {
+  opacity: 0.9;
+  transform: translateY(-1px);
+}
+
+/* ── Responsive grid helpers ────────────────────────────────────── */
+@media (max-width: 768px) {
+  nav > div {
+    padding: 0 16px !important;
+  }
+  nav > div > div:nth-child(2) {
+    display: none !important;
+  }
+  section {
+    padding-left: 16px !important;
+    padding-right: 16px !important;
+  }
+  footer > div:first-child {
+    grid-template-columns: 1fr !important;
+    gap: 32px !important;
+  }
+  footer > div:last-child {
+    flex-direction: column !important;
+    text-align: center !important;
+  }
+}
+
+/* ── Card hover lift ────────────────────────────────────────────── */
+div[style*="borderRadius: 20"] {
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+div[style*="borderRadius: 20"]:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}

@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+dist/
+dist-ssr/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.sw?
+
+# Logs
+*.log
+npm-debug.log*
+
+# Large binary files (keep in Drive/local, not git)
+*.pdf
+*.pptx
+*.pages
+*.png
+*.jpg
+
+# Local env
+*.local

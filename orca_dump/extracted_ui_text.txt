@@ -1,0 +1,147 @@
+, 5 not needed and still shown
+, but the nearest INCOIS fishing-zone advisory is 22 km out
+, so fishing is marginal. You are inside India’s territorial sea
+. Waves and wind look favourable
+.gsap-marker-start, .gsap-marker-end, .gsap-marker-scroller-start, .gsap-marker-scroller-end
+1,690 of 1,963
+1.4 × local median
+1.4 × the local median
+2 days of 4 allowed: usable
+4 km, daily, gap-free L4
+60–95°E / 0–27°N
+9.93°N 76.26°E
+A hole is drawn as a hole.
+A question about the sea
+A rule engine decides. The answer cites.
+A source that could not be reached is named as not evaluated. It is never read as clear.
+Absence of evidence is never evidence of safety.
+Agents and orchestration
+And no accuracy figure is quoted that the test harness did not produce.
+At least 50 valid cells: pass
+Autonomous retrieval
+Cached is never presented as live.
+Capability coverage
+Chapter index
+Chlorophyll, SST, Argo profiles, PFZ advisories
+Close chapter index
+Credentials required
+Daily grids, mostly archival
+Data integration
+Detect the language, reply in it
+Deterministic kernels compute every number.
+EEZ, territorial sea, contiguous zone
+Every value carries provenance.
+Every value traced to its source
+Evidence-backed answers
+Example questions
+Explainable maps and charts
+Five agencies, no shared answer
+Five agencies.
+Four domains, never one score
+Four domains.
+Four forecast cycles a day
+Frontend and visualisation
+Geospatial and assessment
+High chlorophyll, favourable SST
+How ORCA works a question
+How to draw masked cells
+IMD credentials
+INCOIS → CMEMS
+Inside India’s territorial sea. Held at medium confidence, because protected areas could not be evaluated.
+Inside, 12 NM, MarineRegions
+Invalid property
+Invalid scope
+It reads the question as it was asked.
+Kernels compute values and a rule engine decides. The model chooses what to fetch and how to say it.
+Lightning or cyclone
+Malabar coast
+Marginal, capped
+Marine protected areas are not evaluated yet, so a PERMITTED never rises above medium confidence.
+Marine warnings, cyclone track
+MarineRegions v12
+Masked cells stay empty on the map, and the legend states the coverage.
+Median of valid cells within 100 km
+More than 100 program warnings - stopping logs.
+Multi-turn context
+Nearest grid node
+Nearest zone 22 km
+No position buffer data found to compute bounds
+No protected-area layer
+No tide interface
+Nobody asked about water condition, so this domain did not run. It stays on the page so its absence is visible.
+Not checked. IMD requires credentials.
+Not evaluated. No source integrated yet.
+Not requested
+Nothing is averaged, so good fishing and an unsafe sea can be said in the same breath.
+ORCA cites INCOIS, IMD, CMEMS, MarineRegions and NOAA.
+ORCA, back to the start
+One question becomes separate ones.
+One question,
+Permitted, medium
+Proactive hazard alerts
+React.Children.only expected to receive a single React element child.
+Reporting and languages
+Requires GSAP 3.11.0 or later
+Route optimisation
+Safe to venture tomorrow
+See it reason
+Source on GitHub
+Source, dataset, unit, validity time, retrieval time, grid, nearest node and coverage.
+Spatial and temporal correlation
+Territorial sea
+The Planner decides what to fetch.
+The argument must be a React element, but you passed
+The five source agencies and their current state
+The model never produces a number or decides a verdict.
+The official word on whether to go out
+The worst factor governs.
+The worst factor governs. Chlorophyll is favourable, but the nearest INCOIS advisory zone is 22 km away.
+Three-hourly forecast
+Tide, weather and sea
+Unanchored edges. The advisory itself is INCOIS’s, cited, never derived.
+Valid cells in radius
+Versioned snapshot, EEZ v12
+WFS boundary geometry
+Wave height, swell, surface currents
+What it is built from
+Why productivity declined
+Why this source
+Wind forecast, and a second wave source beside CMEMS
+Zones to avoid
+[object Object]
+adapters/, tools/
+bottom bottom
+change click focusin focusout input keydown keyup selectionchange
+compositionend focusout keydown keypress keyup mousedown
+compositionstart focusout keydown keypress keyup mousedown
+compositionupdate focusout keydown keypress keyup mousedown
+display display-xl
+display display-xl dc-title
+display display-xl ev-title
+display display-xl ocean-statement
+easoning with
+focusout contextmenu dragend focusin keydown keyup mousedown mouseup selectionchange
+for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+forceFrameRate takes a positive int between 0 and 125, forcing frame rates higher than 125 fps is not supported
+fragment shader not supplied
+geometry has multiple instanced buffers of different length
+geospatial kernel, not the model
+geospatial/, assessment/
+get_tides is declared but has nothing to bind to. A tide question gets a named gap, never a silent omission.
+gl not passed as first argument to Geometry
+gl not passed as first argument to Mesh
+gl not passed as first argument to Program
+graph/, agents/
+i18n/, reporting
+in e&&e.limiting?
+in e?-e.wheelDeltaY:
+in e?e.deltaX:
+in e?e.deltaY:
+m12 5 7 7-7 7
+m5 12 7-7 7 7
+noopener noreferrer
+not found. https://gsap.com
+ratio: comparative, never an absolute judgement
+ratio_to_local_median, v1.0
+vertex shader not supplied
+“Near Kochi, tomorrow morning” becomes a point and a window.
